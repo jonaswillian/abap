@@ -1,0 +1,4 @@
+# Query on TVARVC
+SELECT SINGLE low
+FROM tvarvc
+WHERE name = 'VARIABLE_NAME'.
